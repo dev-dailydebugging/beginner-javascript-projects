@@ -39,3 +39,4 @@ export default function TransactionList({ transactions, onDeleteTransaction, isL
     </div>
   );
 }
+

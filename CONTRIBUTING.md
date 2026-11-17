@@ -44,3 +44,4 @@ Thank you for your interest in contributing to this repository! Our goal is to p
    git push origin feature/add-weather-dashboard
    ```
    Open a Pull Request on GitHub with a clear description and screenshots/GIFs of your project in action!
+

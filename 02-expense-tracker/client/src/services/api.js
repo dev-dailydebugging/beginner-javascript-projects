@@ -20,3 +20,4 @@ export const transactionApi = {
   delete: (id) =>
     request(`/transactions/${id}`, { method: 'DELETE' })
 };
+

@@ -37,3 +37,4 @@ export default function TaskItem({ task, onToggleStatus, onDeleteTask }) {
     </div>
   );
 }
+
